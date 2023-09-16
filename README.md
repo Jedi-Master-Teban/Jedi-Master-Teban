@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 En estos repositorios encontrarás mis apuntes de algunos temas como Git y GitHub, Python, Pandas, Machine Learning, Deep Learning entre otros.
 
-Mi objetivo es compartir lo que aprendo con otros, especialmente la comunidad hispanohablante que tenga el mismo deseo de aprender estas tecnologías.
+Mi objetivo es compartir lo que aprendo con otros, especialmente con la comunidad hispanohablante, para aquellos que tengan el mismo deseo de aprender estas tecnologías.
 
 Si no encuentras alguno no te preocupes, pueden estar en construcción 👷‍♂️ o en reparación 🚧.
 
