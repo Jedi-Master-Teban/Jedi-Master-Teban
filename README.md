@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jedi-Master-Teban
-- 👀 I’m interested in Physics, DataScience, Machine Learning, Digital learning and Technology applied to agriculture
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Physics, Data Science, Machine Learning, Digital learning and Technology applied to agriculture
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on anything related to free educational resources
 - 📫 How to reach me: send me a DM.
 
